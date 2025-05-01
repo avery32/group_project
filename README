@@ -1,2 +1,7 @@
-#ufo_sightings-2.ipynb is the first part of the project
-#ufo_sightings_scrubbed.csv contains the data
+#ufo_clean_data.csv is the cleaned data we used for the rest of the project
+#ufo_sightings-2.ipynb is the first part of the project, explaining the data and how we cleaned it 
+# 02 Project pre analysis plan.pdf contains our preanalysis-plan
+# LinearRegressionUFOs-2.ipynb contains the code for our linear regression models
+# DecisionTree.ipynb contains the code for our decision tree
+# neural_network.ipynb contains the code for our neural networks
+# Results (1) has the written up results from the previous three code books
